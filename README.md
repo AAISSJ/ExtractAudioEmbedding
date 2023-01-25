@@ -1,4 +1,4 @@
-# ExtractAudioEmbedding
+# 🔊 ExtractAudioEmbedding
 
 1. HUBERT_BASE
 2. WAV2VEC2_XLSR53
