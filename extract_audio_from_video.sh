@@ -1,3 +1,4 @@
+#!/bin/sh
 DATA_DIR="/path/to/dir"
 
 cd $DATA_DIR
