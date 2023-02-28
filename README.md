@@ -1,8 +1,13 @@
-# 🔊 ExtractAudioEmbedding
+# 🔊 ExtractAudioFeature
 
+
+## 1. Pretrained Model 
 1. HUBERT_BASE
 2. WAV2VEC2_XLSR53
 3. WAV2VEC2_BASE
+
+## 2. openSMILE 
+1. ComParE_2016
 
 
 ### Reference
