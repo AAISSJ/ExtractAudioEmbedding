@@ -13,3 +13,4 @@
 ### Reference
 https://pytorch.org/audio/stable/tutorials/speech_recognition_pipeline_tutorial.html
 https://pytorch.org/audio/main/pipelines.html
+https://audeering.github.io/opensmile-python/
